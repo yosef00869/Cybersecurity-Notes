@@ -8,5 +8,5 @@ It focuses on penetration testing techniques through hands-on labs and real-worl
 ---
 
 ### 📂 Resources
-- 📒 [Notes](./notes.md)
-- 🧪 [Labs](./labs.md)
+- 📒 [Notes](CAPT/notes.md)
+- 🧪 [Labs](CAPT/labs.md)
