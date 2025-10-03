@@ -1,10 +1,7 @@
-# 📌 Certifications  
 
-## Certified Associate Penetration Tester (CAPT)
-
-The **CAPT (Certified Associate Penetration Tester)** certification is designed for beginners in cybersecurity.  
-It focuses on penetration testing techniques through hands-on labs and real-world scenarios, providing official validation of technical skills.  
-
+📚 Here you’ll find my notes, tips, and resources on cybersecurity and related topics.
+✨ I’ll keep adding anything useful I learn so that others can benefit too.
+💡 Explore, learn, and maybe even get inspired!
 ---
 
 ### 📂 Resources
