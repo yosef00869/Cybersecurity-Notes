@@ -6,6 +6,3 @@
 
 ---
 
-### 📂 Resources
-- 📒 [Notes](CAPT/notes.md)  
-- 🧪 [Labs](CAPT/labs.md)
